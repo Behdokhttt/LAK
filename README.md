@@ -1,5 +1,5 @@
 # LAK
-![Teaser](Design.png)
+![Teaser](Study_Design.png)
 
 
 In this study, we introduce two novel techniques for representing electroencephalography (EEG) signals to uncover meaningful
