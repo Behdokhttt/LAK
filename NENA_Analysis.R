@@ -2,7 +2,7 @@
 library(rENA)
 library(tma)
 
-data <- readxl::read_excel("C:\\Users\\kiafa\\Data\\LAK.xlsx", sheet = 1)
+data <- readxl::read_excel("C:\\Users\\X\\Data\\LAK.xlsx", sheet = 1)
 
 unitCols = c("Condition", "Participant_ID")
 unique(data[, unitCols])
