@@ -1,5 +1,4 @@
 
-# Install readxl package if it's not already installed
 if (!require(readxl)) install.packages("readxl")
 
 library(readxl)
