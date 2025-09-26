@@ -5,7 +5,7 @@ library(readxl)
 library(ona)
 library(tma)
 
-data <- read_excel("C:\\Users\\X\\Data\\LAK.xlsx", sheet = 1)
+data <- read_excel("C:\\Users\\X\\Data\\RMET.xlsx", sheet = 1)
 
 my_units <- c("Condition", "Participant_ID") 
 
