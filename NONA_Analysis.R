@@ -6,7 +6,6 @@ library(readxl)
 library(ona)
 library(tma)
 
-# Now you can use read_excel function from the readxl package
 data <- read_excel("C:\\Users\\X\\Data\\LAK.xlsx", sheet = 1)
 
 my_units <- c("Condition", "Participant_ID") 
